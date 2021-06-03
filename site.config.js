@@ -12,7 +12,7 @@ module.exports = {
   author: 'LSH',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: 'IT Tech Blog based on notion.',
   socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
